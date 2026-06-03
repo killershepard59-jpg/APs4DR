@@ -12,3 +12,4 @@ The main objective of **APs4DR** is to port the core logic of shadPS4 to Android
 ## 📢 Join Our Community
 All live discussions, logs, and development updates are happening in our official Telegram channel:
 👉 **[JOIN CHISTRASTUDIO TELEGRAM CHANNEL](https://t.me/APs4DR_In_CHistraStudio) 
+![APs4DR Boot](Screenshot_2026-06-04-00-14-15-377_com.termux.jpg)
